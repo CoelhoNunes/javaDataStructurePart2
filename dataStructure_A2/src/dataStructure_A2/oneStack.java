@@ -2,11 +2,6 @@
 Purpose/Description: Using one Stack by implementing Java an O(n) running complexity method
 static int leader(int[] A) to find a leader element and returning the index of any leader
 in A. 
-
-Author’s Panther ID: 6194506
-
-Certification:
-I hereby certify that this work is my own and none of it is the work of any other person.
 *******************************************************************************************/
 
 package dataStructure_A2;
