@@ -1,11 +1,6 @@
 /******************************************************************************************* 
 Purpose/Description: Operations on binary search tress where keys are integers, while having
 provided code to start the implementation of the operations that define the classes. 
-
-Author’s Panther ID: 6194506
-
-Certification:
-I hereby certify that this work is my own and none of it is the work of any other person.
 *******************************************************************************************/
 
 package dataStructure_A2;
